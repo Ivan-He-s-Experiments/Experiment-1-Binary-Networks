@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/60a12a04-c4f0-4ab7-9fc8-6a8a7144043e)# Experiment-1-Binary-Networks
+# Experiment-1-Binary-Networks
 
 Youtube Video: https://www.youtube.com/watch?v=EdWQYypcFzc
 
